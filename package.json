@@ -1,0 +1,24 @@
+{
+  "name": "Set-Up-Webpack",
+  "version": "1.0.0",
+  "description": "为加深webpack的认识，手动搭建一个webpack-vue框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunkpig/Set-Up-Webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chunkpig/Set-Up-Webpack/issues"
+  },
+  "homepage": "https://github.com/chunkpig/Set-Up-Webpack#readme",
+  "dependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
